@@ -3,6 +3,7 @@
 #include <SPIFlash.h>
 
 /* Griff Hamlin Oct 19,2013.
+   See https://github.com/griff2/rfm69rptr.
    rfm69rptr is a moteino R3 sketch.  It "repeats" all incoming and outgoing
    data, similar to a "dump terminal" program such as HyperTerminal. In this
    sketch, data bytes received from the computer via the Serial connection are 
